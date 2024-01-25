@@ -1,4 +1,5 @@
 class Solution:
+    # In each step, checking if we can reach there and going to the end
     def canJump(self, nums: List[int]) -> bool:
         max_till_here = 0
         length = len(nums)
