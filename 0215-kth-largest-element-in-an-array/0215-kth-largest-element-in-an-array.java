@@ -1,6 +1,4 @@
-import java.util.PriorityQueue;
-
-class Solution {
+/*class Solution {
     public int findKthLargest(int[] nums, int k) {
         // Intuition -> Sort based
         // Arrays.sort(nums);
@@ -18,5 +16,23 @@ class Solution {
         }
 
         return minHeap.peek();
+    }
+}
+*/
+
+class Solution {
+    public int findKthLargest(int[] nums, int k) {
+        // Max heap solution
+        PriorityQueue<Integer> maxHeap = new PriorityQueue<>((a, b) -> b - a);
+        
+        for (int num : nums) {
+            maxHeap.offer(num);
+        }
+
+        for (int i = 0; i < k - 1; i++) {
+            maxHeap.poll();
+        }
+
+        return maxHeap.peek();
     }
 }
