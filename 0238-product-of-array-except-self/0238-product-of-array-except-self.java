@@ -1,3 +1,5 @@
+/*
+// My idea
 class Solution {
     private int getProduct(int[] nums) {
         return Arrays.stream(nums)
@@ -27,5 +29,38 @@ class Solution {
                 .map(i -> prod/i)
                 .toArray();
         } 
+    }
+}
+*/
+// Optimization
+
+class Solution {
+    public int[] productExceptSelf(int[] nums) {
+        int zeroCount = 0;
+        int totalProduct = 1;
+
+        for (int num : nums) {
+            if (num == 0) {
+                zeroCount++;
+            } else {
+                totalProduct *= num;
+            }
+        }
+
+        int[] result = new int[nums.length];
+
+        if (zeroCount > 1) {
+            Arrays.fill(result, 0);
+        } else if (zeroCount == 1) {
+            Arrays.fill(result, 0);
+            int zeroIndex = Arrays.stream(nums).boxed().collect(Collectors.toList()).indexOf(0);
+            result[zeroIndex] = totalProduct;
+        } else {
+            for (int i = 0; i < nums.length; i++) {
+                result[i] = totalProduct / nums[i];
+            }
+        }
+
+        return result;
     }
 }
