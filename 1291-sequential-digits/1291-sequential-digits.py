@@ -7,7 +7,6 @@ for powTen in range(2, 10):
     for s in range(powTen, 10):
         dig = dig[1:] + str(s)
         ans.append(int(dig))
-# print(ans)
 
 class Solution:
     def sequentialDigits(self, low: int, high: int) -> List[int]:
