@@ -3,7 +3,6 @@ class Solution:
         if nums == []: return 0
         nums = list(set(nums))
         nums.sort()
-        print(nums)
         n = len(nums)
         lss = 1
         cs = 1
