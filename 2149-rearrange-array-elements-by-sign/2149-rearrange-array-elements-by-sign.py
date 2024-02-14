@@ -1,36 +1,42 @@
+from collections import deque
+
 class Solution:
     def rearrangeArray(self, nums: List[int]) -> List[int]:
-        posQueue = []
-        negQueue = []
+        posDeque = deque()
+        negDeque = deque()
         ans = []
+        
         for i in nums:
             if i < 0:
-                if ans == [] or ans[-1] < 0:
-                    negQueue.append(i)
+                if not ans or ans[-1] < 0:
+                    negDeque.append(i)
                 else:
-                    if negQueue == []:
+                    if not negDeque:
                         ans.append(i)
                     else:
-                        ans.append(negQueue.pop(0))
-                        negQueue.append(i)
+                        ans.append(negDeque.popleft())
+                        negDeque.append(i)
             else:
-                if ans == [] or ans[-1] < 0:
-                    if posQueue == []:
+                if not ans or ans[-1] < 0:
+                    if not posDeque:
                         ans.append(i)
                     else:
-                        ans.append(posQueue.pop(0))
-                        posQueue.append(i)
+                        ans.append(posDeque.popleft())
+                        posDeque.append(i)
                 else:
-                    posQueue.append(i)
-        if nums == []:
+                    posDeque.append(i)
+        
+        if not nums:
             return []
-        elif ans == [] or ans[-1] < 0:
-            for k in range(len(negQueue)):
-                ans.append(posQueue.pop(0))
-                ans.append(negQueue.pop(0))
+        
+        if not ans or ans[-1] < 0:
+            for _ in range(len(negDeque)):
+                ans.append(posDeque.popleft())
+                ans.append(negDeque.popleft())
         else:
-            for k in range(min(len(negQueue), len(posQueue))):
-                ans.append(negQueue.pop(0))
-                ans.append(posQueue.pop(0))
-            ans.append(negQueue.pop(0))
+            for _ in range(min(len(negDeque), len(posDeque))):
+                ans.append(negDeque.popleft())
+                ans.append(posDeque.popleft())
+            ans.append(negDeque.popleft())
+        
         return ans
