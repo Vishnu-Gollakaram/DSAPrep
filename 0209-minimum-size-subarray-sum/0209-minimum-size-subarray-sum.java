@@ -20,7 +20,6 @@ class Solution {
                 left++;
             }
             minSize = Math.min(minSize, right - left);
-            System.out.println(left + " " + right + " " + minSize);
         }
 
         while (right < n) {
@@ -30,7 +29,6 @@ class Solution {
                 left++;
             }
             minSize = Math.min(minSize, right - left + 1);
-            System.out.println(left + " " + right + " " + minSize);
             right++;
         }
         
