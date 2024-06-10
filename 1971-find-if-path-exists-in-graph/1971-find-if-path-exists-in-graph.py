@@ -1,29 +1,34 @@
+from collections import deque
+
 class Solution:
     def validPath(self, n: int, edges: List[List[int]], source: int, dest: int) -> bool:
         if source == dest:
             return True
+        
         def create_adj_list(edges, n):
             adj_list = [[] for _ in range(n)]
-            for edge in edges:
-                u, v = edge[0], edge[1]
+            for u, v in edges:
                 adj_list[u].append(v)
                 adj_list[v].append(u)
             return adj_list
         
         adj_list = create_adj_list(edges, n)
         
-        vis = set()
-        def bfs(source, dest, n):
-            vis.add(source)
-            q = [source]
-            while q:
-                node = q.pop(0)
-                for neighbour in adj_list[node]:
-                    if neighbour not in vis:
-                        vis.add(neighbour)
-                        q.append(neighbour)
-                        if neighbour == dest:
-                            return True
+        visited = set()
+        
+        def bfs(source, dest):
+            queue = deque([source])
+            visited.add(source)
+            
+            while queue:
+                node = queue.popleft()
+                for neighbor in adj_list[node]:
+                    if neighbor == dest:
+                        return True
+                    if neighbor not in visited:
+                        visited.add(neighbor)
+                        queue.append(neighbor)
+            
             return False
         
-        return bfs(source, dest, n)
+        return bfs(source, dest)
