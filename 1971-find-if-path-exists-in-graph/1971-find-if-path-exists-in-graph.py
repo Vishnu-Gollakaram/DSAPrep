@@ -1,6 +1,6 @@
 class Solution:
     def validPath(self, n: int, edges: List[List[int]], source: int, dest: int) -> bool:
-        if edges == [] or source == dest:
+        if source == dest:
             return True
         def create_adj_list(edges, n):
             adj_list = [[] for _ in range(n)]
