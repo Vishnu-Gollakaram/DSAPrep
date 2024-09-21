@@ -21,7 +21,7 @@ class Trie:
         result = []
         for i in range(start, len(s)):
             if s[i] not in node.children:
-                break
+                break  # Exit early if no valid continuation
             node = node.children[s[i]]
             if node.is_end_of_word:
                 result.append(i + 1)  # End of a word, append index after the word
@@ -35,27 +35,27 @@ class Solution:
             trie.insert(word)
         
         # Step 2: Use DFS with memoization
-        memo = {}
+        memo = [-1] * len(s)  # -1 means not computed yet, 1 = true, 0 = false
         
         def dfs(index: int) -> bool:
             # If we reach the end of the string, return True
             if index == len(s):
                 return True
-            # If we have already checked from this index, return the stored result
-            if index in memo:
-                return memo[index]
+            # If already computed, return the result
+            if memo[index] != -1:
+                return memo[index] == 1
             
             # Step 3: Search for all words in Trie starting from 'index'
             valid_ends = trie.search_prefix(s, index)
             
             # Try breaking at each valid end position
             for end in valid_ends:
-                if dfs(end):
-                    memo[index] = True
+                if dfs(end):  # If a valid break is found, store it and return True
+                    memo[index] = 1
                     return True
             
-            # If no valid break was found, mark this index as False in the memo
-            memo[index] = False
+            # If no valid break was found, store it as False in memo
+            memo[index] = 0
             return False
         
         # Start DFS from index 0
