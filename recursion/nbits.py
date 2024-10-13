@@ -7,7 +7,7 @@ class Solution:
 		    if c == n:
 		        arr.append(pattern)
 		        return
-		  6  
+
 		    n_bit(c + 1, pattern + "1", su + 1)
 		    
 		    if su > 0:
