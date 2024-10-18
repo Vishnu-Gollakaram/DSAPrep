@@ -1,38 +1,28 @@
-'''
-This is my intuition based 1-D DP
-T: O(n*n)
-S: O(n)
-class Solution:
-    # minTillHere = inf
-    def jump(self, nums: List[int]) -> int:
-        length = len(nums)
-        dp = [float('inf')] * length
-        dp[0] = 0
-        
-        #condition : minTillHere = min(pre_jump + 1, minTillHere)
-        for idx in range(length - 1):
-            v = nums[idx]
-            for ch_idx in range(idx + 1, idx + v + 1):
-                if ch_idx == length:
-                    break
-                dp[ch_idx] = min(dp[idx] + 1, dp[ch_idx])
-                
-        return dp[length - 1]
-'''
-
-# track maximum reached in each greedy jump and
-# update maximum greedy reached with max reachable 
-# add +1 as we made a jump
-
 class Solution:
     def jump(self, nums: List[int]) -> int:
-        jumps = 0
         max_reached = 0
-        max_greedy_index = 0
-        for i in range(len(nums) - 1):
-            max_reached = max(max_reached, i + nums[i])
-            if i == max_greedy_index:
-                jumps += 1
-                max_greedy_index = max_reached
-        return jumps
-    
+        min_jumps = 0
+        length = len(nums)
+        
+        if length <= 1:  # If only one element, no jumps needed
+            return 0
+
+        cur_end = 0  # Tracks the farthest point within the current jump
+
+        index = 0
+        while index < length - 1:
+            cur = index
+            max_reached = max(max_reached, nums[cur] + cur)  # Update the farthest point we can reach from 'cur'
+
+            # Now we check if we need to make another jump
+            if index == cur_end:  # If we've reached the farthest point of our current jump
+                min_jumps += 1
+                cur_end = max_reached  # Update the farthest point for the next jump
+                
+                # If we can reach the last index, break early
+                if cur_end >= length - 1:
+                    break
+
+            index += 1
+
+        return min_jumps
