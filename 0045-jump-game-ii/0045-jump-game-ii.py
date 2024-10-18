@@ -3,7 +3,6 @@ class Solution:
         length = len(nums)
         mem = [-1] * length
         
-
         def jump_help(cur):
             mem[-1] = 0
 
