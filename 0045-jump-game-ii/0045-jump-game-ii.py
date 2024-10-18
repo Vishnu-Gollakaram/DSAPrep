@@ -1,19 +1,28 @@
 class Solution:
     def jump(self, nums: List[int]) -> int:
+        max_reached = 0
+        min_jumps = 0
         length = len(nums)
-        mem = [-1] * length
         
-        def jump_help(cur):
-            mem[-1] = 0
+        if length <= 1:  # If only one element, no jumps needed
+            return 0
 
-            for i in range(length - 2, -1, -1):
-                j = i + nums[i]
-                mem[i] = 1 + mem[i + 1]
+        cur_end = 0  # Tracks the farthest point within the current jump
 
-                for k in range(i + 2, min(j + 1, length)):
-                    mem[i] = min(mem[i], 1 + mem[k])
+        index = 0
+        while index < length - 1:
+            cur = index
+            max_reached = max(max_reached, nums[cur] + cur)  # Update the farthest point we can reach from 'cur'
 
-            return mem[cur]
+            # Now we check if we need to make another jump
+            if index == cur_end:  # If we've reached the farthest point of our current jump
+                min_jumps += 1
+                cur_end = max_reached  # Update the farthest point for the next jump
+                
+                # If we can reach the last index, break early
+                if cur_end >= length - 1:
+                    break
 
-        op = jump_help(0)
-        return op
+            index += 1
+
+        return min_jumps
