@@ -2,18 +2,17 @@ class Solution:
     def jump(self, nums: List[int]) -> int:
         length = len(nums)
         mem = [-1] * length
+        
 
         def jump_help(cur):
-            if cur == length - 1:
-                return 0
-            
-            if mem[cur] != -1:
-                return mem[cur]
-            max_reach = cur + nums[cur]
+            mem[-1] = 0
 
-            mem[cur] = 1 + jump_help(cur + 1)
-            for step in range(cur + 2, min(max_reach + 1, length)):
-                mem[cur] = min(mem[cur], 1 + jump_help(step))
+            for i in range(length - 2, -1, -1):
+                j = i + nums[i]
+                mem[i] = 1 + mem[i + 1]
+
+                for k in range(i + 2, min(j + 1, length)):
+                    mem[i] = min(mem[i], 1 + mem[k])
 
             return mem[cur]
 
