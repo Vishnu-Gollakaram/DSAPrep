@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0045-jump-game-ii) |
 | [0139-word-break](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0139-word-break) |
+| [0416-partition-equal-subset-sum](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0416-partition-equal-subset-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0045-jump-game-ii) |
 | [0139-word-break](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0139-word-break) |
+| [0416-partition-equal-subset-sum](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0416-partition-equal-subset-sum) |
 ## Memoization
 |  |
 | ------- |
