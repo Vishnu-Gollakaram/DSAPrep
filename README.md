@@ -53,12 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0139-word-break) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## String
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0022-generate-parentheses) |
 | [0139-word-break](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0139-word-break) |
 | [0812-rotate-string](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0812-rotate-string) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1755-defuse-the-bomb) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Binary Search
 |  |
