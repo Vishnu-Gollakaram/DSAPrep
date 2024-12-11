@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0139-word-break) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0560-subarray-sum-equals-k) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0022-generate-parentheses) |
 | [0139-word-break](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0139-word-break) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
