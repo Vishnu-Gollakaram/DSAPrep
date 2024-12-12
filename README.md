@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0239-sliding-window-maximum) |
 | [0416-partition-equal-subset-sum](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0416-partition-equal-subset-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1755-defuse-the-bomb) |
 | [1940-maximum-xor-for-each-query](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1940-maximum-xor-for-each-query) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1940-maximum-xor-for-each-query) |
 ## Sliding Window
