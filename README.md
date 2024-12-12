@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1755-defuse-the-bomb) |
 | [1940-maximum-xor-for-each-query](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1940-maximum-xor-for-each-query) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2102-find-the-middle-index-in-array](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2102-find-the-middle-index-in-array) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Hash Table
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1940-maximum-xor-for-each-query) |
+| [2102-find-the-middle-index-in-array](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2102-find-the-middle-index-in-array) |
 ## Sliding Window
 |  |
 | ------- |
