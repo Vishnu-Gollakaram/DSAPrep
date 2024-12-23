@@ -1,23 +1,22 @@
 from collections import deque
-
 class Solution:
     def findCircleNum(self, adj):
-        V = len(adj)  # Number of nodes (cities)
-        vis = [False] * V  # Visited array
-        connected_comp = 0  # Count of connected components (provinces)
-        q = deque()  # Queue for BFS
+        V = len(adj)
+        vis = [False] * (V)
+        conected_comp = 0
+        q = deque()
                 
         for node in range(V):
-            if not vis[node]:
-                connected_comp += 1  # New connected component found
+            if vis[node] == False:
+                conected_comp += 1
                 q.append(node)
                 vis[node] = True
 
-                while q:
-                    cur = q.popleft()  # Current node
-                    for neighbour in range(V):
-                        if adj[cur][neighbour] == 1 and not vis[neighbour]:
-                            q.append(neighbour)
-                            vis[neighbour] = True
+            while q:
+                cur = q.popleft()
+                for neighbour in range(V):
+                    if adj[cur][neighbour] == 1 and not vis[neighbour]:
+                        q.append(neighbour)
+                        vis[neighbour] = True
                 
-        return connected_comp
+        return conected_comp
