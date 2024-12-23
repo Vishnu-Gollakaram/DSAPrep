@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0386-lexicographical-numbers) |
+| [0547-number-of-provinces](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0112-path-sum) |
+| [0547-number-of-provinces](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0547-number-of-provinces) |
 ## Trie
 |  |
 | ------- |
@@ -164,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
