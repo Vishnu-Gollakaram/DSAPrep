@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1036-rotting-oranges) |
 ## Trie
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0733-flood-fill) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1036-rotting-oranges](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1036-rotting-oranges) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1755-defuse-the-bomb](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1755-defuse-the-bomb) |
 | [1940-maximum-xor-for-each-query](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1940-maximum-xor-for-each-query) |
@@ -186,4 +188,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
