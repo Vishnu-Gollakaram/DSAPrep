@@ -1,22 +1,20 @@
 class Solution:
     def findTargetSumWays(self, nums: List[int], target: int) -> int:
         n = len(nums)
-        memo = {}  # Use a dictionary to store calculated results
+        # Adjust range based on the maximum possible sum/difference
+        dp = [[0] * 2001 for _ in range(n + 1)]  # Range: -1000 to 1000
 
-        def rec(i, su):
+        # Base case: No numbers, only possible sum is 0
+        dp[0][1000] = 1  # Offset by 1000 to handle negative sums
 
-            if (i, su) in memo:
-                return memo[(i, su)]
+        for i in range(1, n + 1):
+            for s in range(2001):
+                if s - nums[i - 1] >= 0:
+                    dp[i][s] += dp[i - 1][s - nums[i - 1]]
+                if s + nums[i - 1] <= 2000:
+                    dp[i][s] += dp[i - 1][s + nums[i - 1]]
 
-            elif i == n:
-                if su == target:
-                    return 1
-                return 0
-
-            else:
-                memo[(i, su)] = rec(i + 1, su + nums[i]) + rec(i + 1, su - nums[i])
-            
-            return memo[(i, su)]
+        return dp[n][target + 1000]
 
         return rec(0, 0)
             
