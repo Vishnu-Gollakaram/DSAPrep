@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0139-word-break) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0560-subarray-sum-equals-k) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## String
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0812-rotate-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Dynamic Programming
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0795-k-th-symbol-in-grammar](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0795-k-th-symbol-in-grammar) |
 | [1940-maximum-xor-for-each-query](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1940-maximum-xor-for-each-query) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Recursion
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1940-maximum-xor-for-each-query) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2102-find-the-middle-index-in-array](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2102-find-the-middle-index-in-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2691-count-vowel-strings-in-ranges) |
