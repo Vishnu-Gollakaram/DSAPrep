@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2102-find-the-middle-index-in-array](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2102-find-the-middle-index-in-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2465-shifting-letters-ii](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2465-shifting-letters-ii) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Dynamic Programming
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2102-find-the-middle-index-in-array](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2102-find-the-middle-index-in-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Sliding Window
 |  |
