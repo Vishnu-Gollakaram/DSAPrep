@@ -1,16 +1,20 @@
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
 class Solution:
-    def isValidBST(self, root: TreeNode) -> bool:
-        def validate(node, min_val, max_val):
+    def isValidBST(self, root: Optional[TreeNode]) -> bool:
+        
+        def valid(node, left, right):
             if not node:
                 return True
 
-            # Check current node's value against the valid range
-            if (min_val is not None and node.val <= min_val) or \
-               (max_val is not None and node.val >= max_val):
+            if not (left < node.val < right):
                 return False
 
-            # Recursively validate left and right subtrees
-            return validate(node.left, min_val, node.val) and \
-                   validate(node.right, node.val, max_val)
+            return (valid(node.left, left, node.val) # left boundary stays the same
+            and valid(node.right, node.val, right) ) # right boundary stays the same
 
-        return validate(root, None, None)
+        return valid(root, float('-inf'), float('inf'))
