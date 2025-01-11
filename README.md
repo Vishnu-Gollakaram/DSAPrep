@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0224-basic-calculator) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0139-word-break) |
+| [0224-basic-calculator](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0224-basic-calculator) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0812-rotate-string](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0952-word-subsets) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0224-basic-calculator) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0795-k-th-symbol-in-grammar) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Bit Manipulation
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0224-basic-calculator) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0795-k-th-symbol-in-grammar) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Backtracking
