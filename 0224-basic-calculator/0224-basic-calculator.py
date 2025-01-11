@@ -1,93 +1,62 @@
 class Solution:
-    precedence_stack = {
-        '(': 0,
-        '+': 2,
-        '-': 2,
-        '*': 4,
-        '/': 4,
-        'neg': 5,
-    }
-
-    precedence_input = {
-        '(': 6,
-        ')': 0,
-        '+': 1,
-        '-': 1,
-        '*': 3,
-        '/': 3,
-        'neg': 5,
-    }
-
+    precedence_stack = {'(': 0, '+': 2, '-': 2, '*': 4, '/': 4, 'neg': 5}
+    precedence_input = {'(': 6, ')': 0, '+': 1, '-': 1, '*': 3, '/': 3, 'neg': 5}
     operators = set("+-*/")
 
     def transform(self, s):
-        # The generated postfix expression of s
-        output = []
-        # Wrap `s` with '(' and ')' to make processing easier
-        s = s + ')'
-        stack = ['(']
-        prevC = '('
+        output, stack = [], ['(']
+        s += ')'
+        prev_char = '('
+        has_num, num = False, 0
 
-        hasNum = False
-        num = 0
-        for c in s:
-            if c == ' ':
+        for char in s:
+            if char == ' ':
                 continue
 
-            # c is part of number
-            if c.isdigit():
-                hasNum = True
-                num = num * 10 + int(c)
-                prevC = c
+            if char.isdigit():
+                has_num = True
+                num = num * 10 + int(char)
+                prev_char = char
                 continue
-            # c is operator
-            if hasNum:
-                hasNum = False
+
+            if has_num:
                 output.append(num)
-                num = 0
+                has_num, num = False, 0
 
-            # check if is negative unary operator
-            if c == '-' and (prevC == '(' or prevC in self.operators):
-                c = 'neg'
-            
-            # Pop until '('
-            while self.precedence_stack[stack[-1]] >= self.precedence_input[c]:
+            if char == '-' and (prev_char == '(' or prev_char in self.operators):
+                char = 'neg'
+
+            while self.precedence_stack[stack[-1]] >= self.precedence_input[char]:
                 popped = stack.pop()
                 if popped != '(':
                     output.append(popped)
                 else:
                     break
-            # push input on to the stack
-            if c != ')':
-                stack.append(c)
 
-            prevC = c
-        
+            if char != ')':
+                stack.append(char)
+
+            prev_char = char
+
         return output
 
     def evaluate_postfix(self, postfix):
         stack = []
-
-        for each in postfix:
-            # Is number
-            if each not in self.precedence_input:
-                stack.append(each)
-                continue
-
-            # Is operator
-            if each == '+':
+        for token in postfix:
+            if token not in self.precedence_input:
+                stack.append(token)
+            elif token == '+':
                 stack.append(stack.pop() + stack.pop())
-            elif each == '-':
+            elif token == '-':
                 a, b = stack.pop(), stack.pop()
                 stack.append(b - a)
-            elif each == '*':
+            elif token == '*':
                 stack.append(stack.pop() * stack.pop())
-            elif each == '/':
+            elif token == '/':
                 a, b = stack.pop(), stack.pop()
-                stack.append(int(b / a)) # truncate towards zero
-            elif each == 'neg':
+                stack.append(int(b / a))  # Integer division
+            elif token == 'neg':
                 stack.append(-stack.pop())
-
         return stack[0]
 
     def calculate(self, s):
