@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0173-binary-search-tree-iterator) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0045-jump-game-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0045-jump-game-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0139-word-break) |
@@ -333,5 +336,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0084-largest-rectangle-in-histogram) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
