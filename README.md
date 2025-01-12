@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Linked List
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Design
