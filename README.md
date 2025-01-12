@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Trie
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1063-best-sightseeing-pair](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1755-defuse-the-bomb) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
