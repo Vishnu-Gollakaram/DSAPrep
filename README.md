@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0022-generate-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0139-word-break) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0438-find-all-anagrams-in-a-string) |
