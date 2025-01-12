@@ -1,27 +1,34 @@
 class Solution:
     def canBeValid(self, s: str, locked: str) -> bool:
         n = len(s)
-        if n % 2 != 0:
+
+        if n % 2 == 1:
             return False
 
-        # Check balance from left to right
-        balance = 0
+        if (locked[0] == "1" and s[0] == ")") or (locked[-1] == "1" and s[-1] == "("):
+            return False 
+
+        brackets = []
+        arr = []
+
         for i in range(n):
-            if s[i] == '(' or locked[i] == '0':
-                balance += 1
+            if locked[i] == "0":
+                arr.append(i)
+            elif s[i] == "(":
+                brackets.append(i)
             else:
-                balance -= 1
-            if balance < 0:
-                return False
+                if brackets:
+                    brackets.pop()
+                elif arr:
+                    arr.pop()
+                else:
+                    return False
+        
+        while brackets and arr and brackets[-1] < arr[-1]:
+            brackets.pop()
+            arr.pop()
 
-        # Check balance from right to left
-        balance = 0
-        for i in range(n - 1, -1, -1):
-            if s[i] == ')' or locked[i] == '0':
-                balance += 1
-            else:
-                balance -= 1
-            if balance < 0:
-                return False
-
+        if brackets:
+            return False
+        
         return True
