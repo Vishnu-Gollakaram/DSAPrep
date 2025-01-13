@@ -2,9 +2,7 @@ class Solution {
     public int minimumLength(String s) {
         Map<Character, Integer> hm = new HashMap<>();
         for(int i = 0; i < s.length(); i++) {
-            Character ch = s.charAt(i);
-            int val = hm.getOrDefault(ch, 0);
-            hm.put(ch, val + 1);
+            hm.put(s.charAt(i), hm.getOrDefault(s.charAt(i), 0) + 1);
         }
         int ans = 0;
         for(Character k : hm.keySet()) {
