@@ -1,19 +1,18 @@
-from collections import Counter
 class Solution:
     def findThePrefixCommonArray(self, A: List[int], B: List[int]) -> List[int]:
-        common_pref = []
         n = len(A)
-        ca = Counter()
-        cb = Counter()
-
+        
+        C = [0] * n
+        seta, setb = set(), set()
         for i in range(n):
-            ca[A[i]] += 1
-            cb[B[i]] += 1
-
-            ans = 0
-            for key in ca:
-                ans += min(cb[key], ca[key])
-
-            common_pref.append(ans)
-
-        return common_pref
+            C[i] = C[i - 1]
+            if A[i] == B[i]:
+                C[i] += 1
+            else:
+                if A[i] in setb:
+                    C[i] += 1
+                if B[i] in seta:
+                    C[i] += 1
+                seta.add(A[i])
+                setb.add(B[i])
+        return C
