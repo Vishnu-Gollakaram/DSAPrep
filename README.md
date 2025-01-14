@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0547-number-of-provinces) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0239-sliding-window-maximum) |
+| [0322-coin-change](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0410-split-array-largest-sum](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0410-split-array-largest-sum) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0045-jump-game-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0139-word-break) |
+| [0322-coin-change](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0416-partition-equal-subset-sum) |
