@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1753-path-with-minimum-effort) |
 ## Trie
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1753-path-with-minimum-effort](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1755-defuse-the-bomb) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1940-maximum-xor-for-each-query) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0222-count-complete-tree-nodes) |
 | [0410-split-array-largest-sum](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0410-split-array-largest-sum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1753-path-with-minimum-effort](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1753-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0502-ipo) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1753-path-with-minimum-effort](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1753-path-with-minimum-effort) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -318,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
@@ -336,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1753-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
 | ------- |
