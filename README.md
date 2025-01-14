@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1073-number-of-enclaves) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1036-rotting-oranges) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0952-word-subsets](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1025-minimum-cost-for-tickets) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0222-count-complete-tree-nodes) |
 | [0410-split-array-largest-sum](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0410-split-array-largest-sum) |
+| [0794-swim-in-rising-water](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1753-path-with-minimum-effort](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1753-path-with-minimum-effort) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -314,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0502-ipo) |
+| [0794-swim-in-rising-water](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1753-path-with-minimum-effort](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1753-path-with-minimum-effort) |
 ## Monotonic Queue
@@ -327,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0547-number-of-provinces) |
+| [0794-swim-in-rising-water](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1753-path-with-minimum-effort) |
@@ -346,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1171-shortest-path-in-binary-matrix) |
