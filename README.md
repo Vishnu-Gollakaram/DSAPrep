@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2562-count-ways-to-build-good-strings) |
 ## Memoization
 |  |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Matrix
 |  |
 | ------- |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Counting
 |  |
 | ------- |
@@ -423,4 +426,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
