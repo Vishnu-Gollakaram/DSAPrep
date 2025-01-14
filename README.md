@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0224-basic-calculator) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0795-k-th-symbol-in-grammar) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Bit Manipulation
 |  |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0502-ipo) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1502-construct-k-palindrome-strings](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## String Matching
