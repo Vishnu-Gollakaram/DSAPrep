@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Hash Table
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-k-th-symbol-in-grammar](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0795-k-th-symbol-in-grammar) |
 | [1940-maximum-xor-for-each-query](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Recursion
