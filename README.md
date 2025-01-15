@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0139-word-break) |
 | [0224-basic-calculator](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0224-basic-calculator) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0583-delete-operation-for-two-strings) |
 | [0812-rotate-string](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0952-word-subsets) |
 | [1170-shortest-common-supersequence](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1170-shortest-common-supersequence) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0542-01-matrix) |
+| [0583-delete-operation-for-two-strings](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0583-delete-operation-for-two-strings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1025-minimum-cost-for-tickets](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1063-best-sightseeing-pair) |
