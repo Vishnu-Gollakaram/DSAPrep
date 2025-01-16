@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0048-rotate-image) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0048-rotate-image) |
 | [0224-basic-calculator](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0224-basic-calculator) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0795-k-th-symbol-in-grammar) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0329-longest-increasing-path-in-a-matrix) |
