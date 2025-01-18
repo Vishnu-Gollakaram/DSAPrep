@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0076-minimum-window-substring) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0045-jump-game-ii) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0010-regular-expression-matching) |
 | [0224-basic-calculator](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0224-basic-calculator) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0795-k-th-symbol-in-grammar) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1951-find-the-winner-of-the-circular-game) |
