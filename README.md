@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1753-path-with-minimum-effort) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Trie
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1753-path-with-minimum-effort](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1753-path-with-minimum-effort) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1753-path-with-minimum-effort) |
 ## Monotonic Queue
 |  |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0820-find-eventual-safe-states) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Matrix
 |  |
@@ -401,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1753-path-with-minimum-effort) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Divide and Conquer
@@ -466,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Doubly-Linked List
 |  |
