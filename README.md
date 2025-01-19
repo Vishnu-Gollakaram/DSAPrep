@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0239-sliding-window-maximum) |
+| [0289-game-of-life](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0289-game-of-life) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Greedy
 |  |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0200-number-of-islands) |
+| [0289-game-of-life](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0542-01-matrix) |
