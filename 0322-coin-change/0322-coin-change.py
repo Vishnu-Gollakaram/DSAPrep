@@ -1,11 +1,22 @@
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
+        # Take 
+        # Leave fully
         n = len(coins)
-        dp = [float('inf')] * (amount + 1)
-        dp[0] = 0
-        
-        for i in range(1, n + 1):
-            for j in range(coins[i - 1], amount + 1):
-                dp[j] = min(dp[j], 1 + dp[j - coins[i - 1]])
-        
-        return dp[amount] if dp[amount] != float('inf') else -1
+        mem = {}
+        def minCoins(n, amount):
+            if amount == 0:
+                return 0
+            if n == 0:
+                return float('inf')
+            if mem.get((n, amount)):
+                return mem[(n, amount)]
+            if amount < coins[n - 1]:
+                mem[(n, amount)] = minCoins(n - 1, amount)
+            else:
+                mem[(n, amount)] = min(minCoins(n - 1, amount), 1 + minCoins(n, amount - coins[n - 1]))
+            return mem[(n, amount)]
+        ans = minCoins(n, amount)
+        if ans == float('inf'):
+            return -1
+        return ans
