@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0086-partition-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0146-lru-cache) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0295-find-median-from-data-stream) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0215-kth-largest-element-in-an-array) |
@@ -537,4 +540,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
