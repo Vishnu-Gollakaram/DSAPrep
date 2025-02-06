@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1364-tuple-with-same-product](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1524-string-matching-in-an-array) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0560-subarray-sum-equals-k) |
 | [0952-word-subsets](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0952-word-subsets) |
+| [1364-tuple-with-same-product](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
