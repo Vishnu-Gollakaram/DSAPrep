@@ -1,9 +1,11 @@
 class Solution:
     def removeOccurrences(self, s: str, part: str) -> str:
-        
-        while True:
-            idx = s.find(part)
-            if idx == -1:
-                break
-            s = s[:idx] + s[idx + len(part):]
+        i = 0
+        n = len(part)
+        while i+n<=len(s):
+            if s[i:i+n]==part:
+                s = s[0:i]+s[i+n:]
+                i=0                
+            else:
+                i+=1
         return s
