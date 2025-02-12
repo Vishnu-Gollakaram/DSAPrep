@@ -6,7 +6,10 @@ class Solution:
         ans = -1
 
         for num in nums:
-            sod = sum(int(digit) for digit in str(num))
+            sod, n = 0, num
+            while n:
+                sod += n % 10
+                n //= 10
 
             if sod in digits:
                 first_max, second_max = digits[sod]
