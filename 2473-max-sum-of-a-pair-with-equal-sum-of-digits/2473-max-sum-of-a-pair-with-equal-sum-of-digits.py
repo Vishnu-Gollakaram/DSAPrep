@@ -1,28 +1,22 @@
+from typing import List
+
 class Solution:
     def maximumSum(self, nums: List[int]) -> int:
         digits = {}
-        n = len(nums)
         ans = -1
-        for i in range(n):
-            num = nums[i]
-            sod = sum([int(k) for k in str(num)])
 
-            if sod not in digits:
-                digits[sod] = [num]
+        for num in nums:
+            sod = sum(int(digit) for digit in str(num))
+
+            if sod in digits:
+                first_max, second_max = digits[sod]
+                if num > first_max:
+                    second_max, first_max = first_max, num
+                elif num > second_max:
+                    second_max = num
+                digits[sod] = (first_max, second_max)
+                ans = max(ans, first_max + second_max)
             else:
-                vals = digits[sod]
-                if len(vals) == 1:
-                    if vals[-1] > num:
-                        vals = [num] + vals
-                    else:
-                        vals.append(num)
-                else:
-                    if num >= vals[-1]:
-                        vals[0] = vals[-1]
-                        vals[-1] = num
-                    elif num > vals[0]:
-                        vals[0] = num
-                ans = max(ans, sum(vals))
-                digits[sod] = vals
+                digits[sod] = (num, -1)
 
         return ans
