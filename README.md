@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0043-multiply-strings](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0139-word-break) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0048-rotate-image) |
 | [0224-basic-calculator](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0224-basic-calculator) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0795-k-th-symbol-in-grammar) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0043-multiply-strings) |
 | [0289-game-of-life](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0289-game-of-life) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2021-remove-all-occurrences-of-a-substring) |
