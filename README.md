@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1364-tuple-with-same-product](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1396-count-servers-that-communicate) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0224-basic-calculator) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0795-k-th-symbol-in-grammar) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1477-product-of-the-last-k-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2448-count-number-of-bad-pairs](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2448-count-number-of-bad-pairs) |
 ## Bit Manipulation
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1940-maximum-xor-for-each-query) |
@@ -572,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0295-find-median-from-data-stream) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2434-design-a-number-container-system) |
 ## Iterator
 |  |
@@ -600,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0295-find-median-from-data-stream) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1477-product-of-the-last-k-numbers) |
 ## Shortest Path
 |  |
 | ------- |
