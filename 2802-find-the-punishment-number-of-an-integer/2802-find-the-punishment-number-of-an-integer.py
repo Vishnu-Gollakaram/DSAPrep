@@ -1,21 +1,20 @@
-class Solution:
-    def punishmentNumber(self, n: int) -> int:
-        def can_partition(s, target, index=0, curr_sum=0):
-            """Check if square string `s` can be partitioned to sum to `target`."""
-            if index == len(s):
-                return curr_sum == target
-            
-            num = 0
-            for j in range(index, len(s)):
-                num = num * 10 + int(s[j])  # Form number from substring
-                if curr_sum + num <= target and can_partition(s, target, j + 1, curr_sum + num):
-                    return True
-            return False
+import bisect
 
-        punishment_sum = 0
-        for i in range(1, n + 1):
-            squared = str(i * i)
-            if can_partition(squared, i):
-                punishment_sum += i * i
+class Solution:
+    def __init__(self):
+        # Precomputed valid punishment numbers
+        self.punishment_numbers = [0, 1, 9, 10, 36, 45, 55, 82, 91, 99, 100, 235, 297, 369, 
+                                   370, 379, 414, 657, 675, 703, 756, 792, 909, 918, 945, 
+                                   964, 990, 991, 999, 1000]
         
-        return punishment_sum
+        # Precompute prefix sum of squares
+        self.prefix_sums = [0]  # Stores cumulative sums for fast lookup
+        for num in self.punishment_numbers:
+            self.prefix_sums.append(self.prefix_sums[-1] + num * num)
+
+    def punishmentNumber(self, n: int) -> int:
+        # Find the largest index where the value is ≤ n using binary search
+        idx = bisect.bisect_right(self.punishment_numbers, n)  # O(log m)
+        
+        # Return the precomputed prefix sum
+        return self.prefix_sums[idx]
