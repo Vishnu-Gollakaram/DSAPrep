@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1073-number-of-enclaves) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1558-course-schedule-iv) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Linked List
 |  |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0583-delete-operation-for-two-strings) |
 | [0812-rotate-string](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0952-word-subsets) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1170-shortest-common-supersequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
