@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1753-path-with-minimum-effort](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1755-defuse-the-bomb) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2562-count-ways-to-build-good-strings) |
 ## Memoization
