@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2102-find-the-middle-index-in-array) |
 | [2107-find-unique-binary-string](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2145-grid-game) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2358-number-of-ways-to-split-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2448-count-number-of-bad-pairs) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0289-game-of-life) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -645,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0295-find-median-from-data-stream) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Quickselect
