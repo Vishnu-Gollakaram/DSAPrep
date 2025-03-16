@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1753-path-with-minimum-effort](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1753-path-with-minimum-effort) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2665-minimum-time-to-repair-cars) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
