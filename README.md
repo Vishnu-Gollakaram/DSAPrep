@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0347-top-k-frequent-elements](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0399-evaluate-division](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0407-trapping-rain-water-ii) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0146-lru-cache) |
+| [0347-top-k-frequent-elements](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0347-top-k-frequent-elements) |
 | [0433-minimum-genetic-mutation](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0560-subarray-sum-equals-k) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0502-ipo) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0407-trapping-rain-water-ii) |
 | [0502-ipo](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0502-ipo) |
@@ -596,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Topological Sort
 |  |
@@ -610,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0347-top-k-frequent-elements) |
 | [1160-letter-tile-possibilities](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1396-count-servers-that-communicate) |
@@ -662,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0347-top-k-frequent-elements) |
 ## Data Stream
 |  |
 | ------- |
@@ -691,4 +698,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2434-design-a-number-container-system) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
