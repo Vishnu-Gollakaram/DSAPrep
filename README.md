@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0560-subarray-sum-equals-k) |
+| [0768-partition-labels](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0952-word-subsets) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0583-delete-operation-for-two-strings) |
+| [0768-partition-labels](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0502-ipo) |
+| [0768-partition-labels](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0768-partition-labels) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1502-construct-k-palindrome-strings](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1502-construct-k-palindrome-strings) |
@@ -676,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0295-find-median-from-data-stream) |
+| [0768-partition-labels](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
