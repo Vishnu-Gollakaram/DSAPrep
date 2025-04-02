@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2792-neighboring-bitwise-xor) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/3291-find-if-array-can-be-sorted) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
