@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3429-special-array-i](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
 | ------- |
