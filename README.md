@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0139-word-break) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0224-basic-calculator) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0795-k-th-symbol-in-grammar) |
@@ -734,4 +736,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0347-top-k-frequent-elements) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
