@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0139-word-break) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0200-number-of-islands) |
