@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3429-special-array-i](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2562-count-ways-to-build-good-strings) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Memoization
 |  |
 | ------- |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-rank-teams-by-votes](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1483-rank-teams-by-votes) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/3291-find-if-array-can-be-sorted) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -545,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2690-house-robber-iv) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -669,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2448-count-number-of-bad-pairs) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Binary Search Tree
 |  |
@@ -712,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Quickselect
 |  |
 | ------- |
