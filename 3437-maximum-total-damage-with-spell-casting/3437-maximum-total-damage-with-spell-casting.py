@@ -3,26 +3,22 @@ class Solution:
         if not power:
             return 0
 
-        power.sort()
-        vals, earn = [], []
+        earn = {}
 
-        i = 0
-        while i < len(power):
-            v = power[i]
-            tot = 0
-            while i < len(power) and power[i] == v:
-                tot += v
-                i += 1
+        for i in power:
+            if earn.get(i):
+                earn[i] += i
+            else:
+                earn[i] = i
 
-            vals.append(v)
-            earn.append(tot)
-
+        vals = list(earn.keys())
+        vals.sort()
         n = len(vals)
         dp = [0] * (n + 1)
 
         for i in range(n - 1, -1, -1):
             nxt = bisect_left(vals, vals[i] + 3)
-            take = earn[i] + dp[nxt]
+            take = earn[vals[i]] + dp[nxt]
             skip = dp[i + 1]
             dp[i] = max(take, skip)
 
