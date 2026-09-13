@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0794-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0835-image-overlap) |
 | [0854-making-a-large-island](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0854-making-a-large-island) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0794-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0835-image-overlap) |
 | [0854-making-a-large-island](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/Vishnu-Gollakaram/DSAPrep/tree/master/0967-minimum-falling-path-sum) |
